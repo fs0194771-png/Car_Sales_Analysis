@@ -470,33 +470,45 @@ Engine did not provide significant additional analytical value compared with oth
 
 ---
 
-# 📊 Dashboard
+## Dashboard
 
-An interactive **Excel Dashboard** was created to present the most important KPIs, trends, and business insights in a clear and visual format.
+### Car Sales Analytics Dashboard
 
-## Dashboard Preview
+- Built an interactive Excel dashboard to analyze and monitor car sales performance.
+- Added KPI cards to track:
+  - **Total Sales Revenue**
+  - **Total Cars Sold**
+  - **Average Car Price**
+  - **Average Customer Income**
+- Added interactive slicers for:
+  - **Year**
+  - **Month**
+  - **Company**
+  - **Body Style**
+- Created the following visualizations:
+  - **Top Sales by Company**
+  - **No. of Car Sales by Company**
+  - **Transmission Type Distribution**
+  - **Top Models Sold**
+  - **Dealer Performance**
+  - **Sales by Body Style**
+  - **Car Color Popularity**
+  - **Monthly Sales Trend**
+  - **Engine Type Distribution**
+  - **Sales Revenue by City**
+  - **Top 10 Customers by Sales Revenue**
+
+### Dashboard Preview
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fs0194771-png/Car_Sales_Analysis/main/car-sales-dashboard.png" alt="Car Sales Dashboard" width="100%">
 </p>
 
-## 🎥 Dashboard Demo
+### Dashboard Demo
+
+The dashboard demo video is available in the repository:
 
 [▶️ Watch the Dashboard Demo](dashboard_demo.mp4)
-
-The dashboard provides an overview of:
-
-* Total Sales
-* Total Cars Sold
-* Average Car Price
-* Sales Trends
-* Company Performance
-* Dealer Performance
-* Customer Analysis
-* Vehicle Characteristics
-* Income Analysis
-
-
 ---
 
 # 🎯 Business Recommendations
