@@ -476,6 +476,10 @@ An interactive **Excel Dashboard** was created to present the most important KPI
 
 ## Dashboard Preview
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fs0194771-png/Car_Sales_Analysis/main/car-sales-dashboard.png" alt="Car Sales Dashboard" width="100%">
+</p>
+
 ## 🎥 Dashboard Demo
 
 [▶️ Watch the Dashboard Demo](dashboard_demo.mp4)
@@ -491,6 +495,7 @@ The dashboard provides an overview of:
 * Customer Analysis
 * Vehicle Characteristics
 * Income Analysis
+
 
 ---
 
